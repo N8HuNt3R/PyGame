@@ -1,5 +1,5 @@
 # PyGame
-this is my first code using python , i a new python programmer 
+this is my first code using python , i am a new python programmer 
 run this game 
 git clone https://github.com/Rootshuvo/PyGame/tree/master
 for windows
